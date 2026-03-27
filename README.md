@@ -74,7 +74,7 @@ streamlit run chatbot.py
 ### 5️⃣ Open in browser
 
 ```
-http://localhost:8501
+http://localhost:8501   # NOT EXACT BUTTHIS TYPE
 ```
 
 ---
@@ -88,6 +88,7 @@ http://localhost:8501
 ---
 
 ## 📸 Demo
+ChatbotDemo.Mp4
 
 
 
